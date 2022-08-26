@@ -31,6 +31,11 @@ input{
     border-radius: 5px;
     border: none;
 }
+.para{
+    color: black;
+    margin-bottom:1rem;
+    font-weight: bold;
+}
 #btn-check {
     width: 73px;
     height: 30px;
